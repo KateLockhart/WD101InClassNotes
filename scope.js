@@ -1,3 +1,6 @@
+//* Scope Notes :
+// Created  8/26/21
+
 /*
 Scope is simply the hierarchy of variables within our code.
 - Global Scope or Parent Scope

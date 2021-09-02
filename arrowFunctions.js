@@ -1,3 +1,6 @@
+//* Arrow Function Notes :
+// Created  8/28/21
+
 /*
 - Also called Fat Arrow Functions
 - They are NOT (function) declarations

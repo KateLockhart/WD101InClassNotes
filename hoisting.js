@@ -1,3 +1,6 @@
+//* Hoisting Notes :
+// Created  8/26/21
+
 /*
 Two General Phase when we run code:
 - Creation Phase

@@ -1,3 +1,6 @@
+//* Literal Notes :
+// Created  8/26/21
+
 /* 
 Literals represent value in JS.
 Literals are the literal value we give our variables.

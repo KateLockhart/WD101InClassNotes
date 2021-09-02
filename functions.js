@@ -1,3 +1,6 @@
+//* Function Notes :
+// Created  8/28/21
+
 /*
 Types of Functions:
 - function declaration

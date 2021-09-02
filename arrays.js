@@ -1,3 +1,6 @@
+//* Array Notes :
+// Created Tuesday 8/31/21
+
 /*
 ex:
     let array = [value, value, value];

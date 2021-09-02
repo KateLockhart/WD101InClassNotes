@@ -1,3 +1,6 @@
+//* Parameter Notes :
+// Created  8/28/21
+
 /*
 Parameters are values we haven't assigned yet.
 Value is passed through to the function using an argument(s).
